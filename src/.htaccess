@@ -1,0 +1,5 @@
+# Example .htaccess file
+# Add any specific configurations here
+
+# DirectoryIndex specifies the default page to serve
+DirectoryIndex index.html
